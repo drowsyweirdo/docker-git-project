@@ -19,4 +19,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: hkseal/docker-git-integrated:mynewimage
+          tags: harshavardhan7089/docker-git-integrated:mynewimage
